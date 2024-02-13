@@ -6,5 +6,5 @@ Roadrover Rentals is an innovative web application designed for seamless vehicle
 
 ## Technologies Used:
 - Frontend: Angular
-- Backend: ExpressJS, Node.js
+- Backend: Express.js, Node.js
 - Database: SQL
